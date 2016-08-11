@@ -1,0 +1,35 @@
+body {
+    font-family: monospace;
+    font-size: 13px;
+    background-color: #ffffff;
+    color: #181818;
+    position: relative;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    width: 525px;
+    max-width: 90%;
+}
+.header {
+    color: #AB4642;
+    font-weight: bold;
+}
+.inset {
+    margin-top: 1em;
+    padding-left: 4em;
+    max-width: 90%;
+}
+a:link {
+    color: #6a9fb5;
+    text-decoration: none;
+}
+a:visited {
+    color: #6a9fb5;
+    text-decoration: none;
+}
+a:hover {
+    border-bottom: 1px solid;
+}
