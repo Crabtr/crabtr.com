@@ -1,0 +1,37 @@
+body {
+    background-color: #2E3440;
+    color: #ECEFF4;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 700px;
+}
+.name {
+    font-size: 22px;
+    padding-top: 1em;
+    padding-bottom: .5em;
+}
+.bio {
+    padding-top: 1em;
+    padding: .75em;
+    background-color: #3B4252;
+    border: 1px solid #000000;
+}
+.link {
+    color: #81A1C1;
+    padding-top: 1em;
+}
+a:link {
+    color: #81A1C1;
+    text-decoration: none;
+}
+a:visited {
+    color: #81A1C1;
+    text-decoration: none;
+}
+a:hover {
+    border-bottom: 1px solid;
+}
